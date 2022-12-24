@@ -29,3 +29,8 @@
 ## WebApplication
 В данной лабораторной работе был реализован сайт с мини-блогом.
 Есть возможность просматривать статьи, добавлять их (только с помощью БД), регистрироваться и авторизироваться.
+![6](https://user-images.githubusercontent.com/31400073/209441769-eab91e8f-d3be-424d-83b2-e8e94d709fe4.jpg)
+![7](https://user-images.githubusercontent.com/31400073/209441773-24a52334-84eb-44ca-98ae-050259b1a5f5.jpg)
+![8](https://user-images.githubusercontent.com/31400073/209441775-521e6490-96d7-40d4-821c-47d88f628e22.jpg)
+![9](https://user-images.githubusercontent.com/31400073/209441782-53128aa9-16c8-4dd8-8277-f6956578b505.jpg)
+![10](https://user-images.githubusercontent.com/31400073/209441790-4e7f62d4-96e6-4bc5-b552-a5756e42bfed.jpg)
