@@ -1,0 +1,10 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<footer>
+            <div>
+                <span>Лабораторная работа JAVA EE</span>
+                <span><a target="_blanc" href="https://vk.com/shadowsden">Автора работы</a></span>
+            </div>
+        </footer>
+    </body>
+</html>
