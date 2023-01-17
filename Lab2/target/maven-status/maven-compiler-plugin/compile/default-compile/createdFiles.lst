@@ -1,0 +1,16 @@
+com\example\rumblr\domain\Message.class
+com\example\rumblr\Application.class
+com\example\rumblr\repos\MessageRepo.class
+com\example\rumblr\controller\RegistrationController.class
+com\example\rumblr\domain\User.class
+com\example\rumblr\config\MvcConfig.class
+com\example\rumblr\service\UserSevice.class
+com\example\rumblr\domain\dto\CaptchaResponseDto.class
+com\example\rumblr\controller\ControllerUtils.class
+com\example\rumblr\config\MailConfig.class
+com\example\rumblr\service\MailService.class
+com\example\rumblr\controller\MainController.class
+com\example\rumblr\domain\Role.class
+com\example\rumblr\config\WebSecurityConfig.class
+com\example\rumblr\repos\UserRepo.class
+com\example\rumblr\controller\UserController.class
